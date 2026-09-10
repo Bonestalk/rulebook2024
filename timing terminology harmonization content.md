@@ -292,9 +292,8 @@ Some cards such as action cards are not resolved immediately; in that case, they
 > **ADVANCED RULES**\
 > Some effects can cancel a card "as it is played." These effects, as
 > well as [**wake effects**](https://www.vekn.net/rulebook/8-glossaries#wake),
-> are the only effects allowed during the "as played" time period of
-> another card. Even drawing to replace cards, comes after this time
-> period.
+> are the only effects allowed during the "as played" window of
+> another card. Even drawing to replace cards, comes after this window.
 
 
 ### **Drawing Cards**
